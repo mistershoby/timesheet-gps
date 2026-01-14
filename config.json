@@ -69,9 +69,11 @@
     }
   },
 
-  "selfService": {
+   "selfService": {
     "enabled": true
   },
+  
+  "selfServiceBaseUrl": "self.html",
 
   "payroll": {
     "defaultMonth": "previous"
